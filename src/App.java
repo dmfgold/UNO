@@ -13,6 +13,7 @@ public class App {
         println("3a. If the card taken can be played, it must be played");
         println("3b. If the card taken cannot be played, the turn is skipped");
         println("4. You can only place the colors RED, GREEN, BLUE, AND YELLOW");
+        println("5. Do not peek at other players cards");
         println("\nHave fun!");
         println("-----------------------");
         
