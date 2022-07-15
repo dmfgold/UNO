@@ -1,0 +1,1 @@
+This project file contains the version in which the turn functionality would have hypothetically been implemented directly into the Computer class and the Human class, rather than the engine class. Turn code was written for the engine, though formatted to fit into the other classes as originally intended. 
