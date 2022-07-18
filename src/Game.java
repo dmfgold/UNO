@@ -275,4 +275,8 @@ public class Game {
     public void print(String string){
         System.out.print(string);
     }
+
+    public void println(int number){
+        System.out.println(number);
+    }
 }
